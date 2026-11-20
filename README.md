@@ -33,6 +33,8 @@ Ping with one of:
 
 Agent delivers: runnable crate + short LinkedIn post text + one “I touched Rust today” bullet.
 
+**Comments:** every day’s `.rs` file is heavily commented for a complete beginner (including basic “what is a program / variable / argument?” ideas). Skim in under ~2 minutes — skip comments on pure micro days if you only need to run and post.
+
 You: `cargo run -p day-NNN-…` (or the command in that day’s README) → post → stop.
 
 ## Layout
