@@ -7,7 +7,7 @@ cargo run -p day-001-greet
 cargo run -p day-001-greet -- YourName
 ```
 
-**X post (copy):**  
-`#100DaysOfRust Day 1: tiny greet CLI. Learned: args via std::env. Done > impressive.`
+**LinkedIn post (copy):**  
+Day 1 of #100DaysOfRust — shipped a tiny greet CLI. Learning in public with small, finished programs (done > impressive). Today: reading args via `std::env`.
 
 **Touched Rust today:** `std::env::args`, `unwrap_or_else`, `println!` formatting.
